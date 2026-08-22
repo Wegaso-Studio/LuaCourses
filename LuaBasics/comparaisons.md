@@ -10,6 +10,7 @@
   - `==` : égal 
   - `>=` : plus grand ou egal
   - `<=` : plus petit ou egal
+  - `!=` : different de
 
 
 ## Les opérateurs logiques
