@@ -83,21 +83,25 @@
     - Le Lua accepte les 3 mais il y a une petite chose a savoir
         - les backticks sont utilisés en Lua pour les props principalement (question de fonctionnement fiveM framework)
         - les guillemets simples ne permettent plus de créer facilement des apostrophes.
+      
         ex:
         ```lua
         local maStringCassee = 'l'ecureuil'
         ```
         - Tu remarque que la syntaxe affiche une différence après " l' " c'est parceque le code pense que la string s'arrête à 'l' tout le reste n'est pas compris ecureuil' erreur de syntaxe
-        - Comment faire haaaa! Ok on utilise le fameux antislash devant le caractère qu'on veut annuler (c'est le `caractères d'annulation*`)
+        - Comment faire haaaa! Ok on utilise le fameux antislash devant le caractère qu'on veut annuler (c'est le `caractère d'annulation*`)
+      
         ex: 
         ```lua
         local maStringReparee = 'l\'ecureuil'
         ```
 
     - Petit bonus grace à l'antislash on va pouvoir effectuer certaines actions comme retourner a la ligne avec `\n` dans une string
+    - 
         ex:
         ```lua
         local str = "Voici ma longue phrase,\n Je l'ai donc coupé en deux avec \\n"
+        ```
 
 - Les `number` sont des nombres on les ecrits normalement
     - on dit `int` les nombres entiers
