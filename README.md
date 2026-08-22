@@ -26,7 +26,7 @@ L’objectif est d’offrir un parcours clair, progressif et directement applica
   - Optimisation & bonnes pratiques  
 
 - **3. Spécialisation FiveM** (arrive plus tard) 
-  - Architecture d’un resource  
+  - Architecture d’une resource  
   - Communication client ↔ serveur  
   - Events, callbacks, NUI  
   - Gestion des données (JSON, MySQL, oxmysql)  
@@ -56,7 +56,7 @@ L’objectif est d’offrir un parcours clair, progressif et directement applica
 
 1. Cloner le repository (si vous le souhaitez)
 2. Suivre les modules dans l’ordre
-3. Tester chaque exercice dans un resource dédié 
+3. Tester chaque exercice dans un resource dédié [tools-online lua](https://www.tools-online.app/tools/lua)
 4. Passer à la section FiveM une fois les bases Lua maîtrisées  
 
 ---
@@ -69,9 +69,9 @@ Toute redistribution commerciale est interdite.
 ## 🗂️ Structure folder
 ```
 LuaCourses/
-├── LuaBasics/
-│   └── introduction.md
-└── README.md
+  ├── LuaBasics/
+  │   └── introduction.md
+  └── README.md
 ```
 ---
 
