@@ -44,7 +44,7 @@
 - a) J'ai préparé une variable `result` tu vas devoir fabriquer les variables et leurs valeurs
   - prenom, nom, age
 - b) Tu vas devoir imprimer le résultat sur la console
-- c) Comment le code pour savoir ce qui a été fait et pourquoi
+- c) Commente le code pour savoir ce qui a été fait et pourquoi
     #### Ex:
     ```lua
     -- J'ai utilisé la methode string.format (tu l'apprendras plus tard ^^) les variables sont après la `string`
