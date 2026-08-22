@@ -13,7 +13,7 @@
     FIN
     ```
 
-- de manière logique nous n'llons pas creer cette redondance si variable est (true) elle ne peut pas etre (false) et inversément
+- de manière logique nous n'allons pas creer cette redondance si variable est (true) elle ne peut pas etre (false) et inversément
 - alors on va faire ceci
     ```
     SI variable est (true) ALORS
