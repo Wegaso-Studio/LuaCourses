@@ -97,7 +97,7 @@
         ```
 
     - Petit bonus grace à l'antislash on va pouvoir effectuer certaines actions comme retourner a la ligne avec `\n` dans une string
-    - 
+    
         ex:
         ```lua
         local str = "Voici ma longue phrase,\n Je l'ai donc coupé en deux avec \\n"
