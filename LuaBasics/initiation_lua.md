@@ -87,7 +87,7 @@
         ```lua
         local maStringCassee = 'l'ecureuil'
         ```
-        - Tu remarque que la syntaxe affiche une sifférence après " l' " c'est parceque le code pense que la string s'arrête à 'l' tout le reste n'est pas compris ecureuil' erreur de syntaxe
+        - Tu remarque que la syntaxe affiche une différence après " l' " c'est parceque le code pense que la string s'arrête à 'l' tout le reste n'est pas compris ecureuil' erreur de syntaxe
         - Comment faire haaaa! Ok on utilise le fameux antislash devant le caractère qu'on veut annuler (c'est le `caractères d'annulation*`)
         ex: 
         ```lua
