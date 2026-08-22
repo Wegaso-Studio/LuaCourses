@@ -57,3 +57,7 @@
 - c) Imprime ton nom + prenom + animal préféré dans une phrase logique.
 - d) Commente ton code
   - pour cet exercice je ne fournis pas de code, penses a stocker dans les variables pour plus de clareté
+
+
+## Tu as terminé et tu veux passer à la suite ?
+- [Cliques ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/comparaisons.md) pour voir le cours sur les comparaisons
