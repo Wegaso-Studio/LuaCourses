@@ -10,7 +10,8 @@ L’objectif est d’offrir un parcours clair, progressif et directement applica
 
 # ❓ Sommaire
 - [Introduction](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/introduction.md)
-
+- [Initiation](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/initiation_lua.md)
+- [Initiation Exercices](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/initiation_exercises.md)
 # 📂 Structure du cours
 
 - **1. Bases du Lua**  
