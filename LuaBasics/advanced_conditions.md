@@ -26,14 +26,14 @@ Maintenant je vais vous expliquer les conditions un peu plus en détail en méla
     end
     ```
 
-## Not condition
+## False condition
 - il est possible de verifier si quelque chose "n'est pas" avec not
 - je vais de suite montrer un exemple qui parlera plus que moi:
 
     ex:
     ```lua
     local variable = false
-
+    -- SI variable est "false" ALORS
     if not variable then
         print("test reussi")
     end
@@ -48,6 +48,7 @@ Maintenant je vais vous expliquer les conditions un peu plus en détail en méla
     ```lua
     local variable = false
 
+    -- SI variable est "true" ALORS
     if variable then
         print("test reussi")
     end
@@ -57,6 +58,7 @@ Maintenant je vais vous expliquer les conditions un peu plus en détail en méla
     ```lua
     -- la variable
     local variable = "france"
+
     -- SI variable est "true" ET QUE variable EGAL "france" ALORS
     if variable and variable == "france" then
         -- Imprime "FRANCE"
@@ -116,5 +118,5 @@ Maintenant je vais vous expliquer les conditions un peu plus en détail en méla
 ```
 
 ## Suite du cours
-- Vous pouvez tester le code dans [tools-online](https://www.tools-online.app/)
-- Pour la suite rendez vous aux listes et tableaux en **cliquant ici**
+- Vous pouvez tester le code dans **[tools-online](https://www.tools-online.app/)**
+- Pour la suite rendez vous aux listes et tableaux en **[cliquant ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/arrays-tables.md)**
