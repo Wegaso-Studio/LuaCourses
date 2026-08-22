@@ -24,4 +24,4 @@
 
 ## C'est déjà terminé
 - Rendez vous aux conditions (ce que vous venez de voir va bien vous servir)
-- *Cliquez ici (en attente)*
+- [Cliquez ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/conditions.md)
