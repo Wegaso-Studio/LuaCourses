@@ -117,6 +117,6 @@ Maintenant je vais vous expliquer les conditions un peu plus en détail en méla
     end
 ```
 
-## Suite du cours
-- Vous pouvez tester le code dans **[tools-online](https://www.tools-online.app/)**
-- Pour la suite rendez vous aux listes et tableaux en **[cliquant ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/arrays-tables.md)**
+## Passons aux exercices
+- Vous pouvez tester le code de la théorie dans **[tools-online](https://www.tools-online.app/)**
+- Cliquez ici pour passer à la pratique
