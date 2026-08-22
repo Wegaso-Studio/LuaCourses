@@ -96,3 +96,7 @@
             print("test reussi - false")
         end
     ```
+
+## Avant de passer à la suite des conditions !
+- J'aimerais repasser sur `types de données` mais plus particulièrement sur les `boolean` et le `nil`
+- Cliquez ici pour la suite.
