@@ -7,7 +7,7 @@
 - Ce code n'existe pas il est representatif d'un code quelconque et sert seulement à la compréhension.
 
 ## 2 - Les types de données
-- Le code en général peut envoyer, recevoir, enregistrer plusiueurs type de données.
+- Le code en général peut envoyer, recevoir, enregistrer plusieurs type de données.
 
 - On retrouvera notamment comment coder des phrases, des chiffres
 
