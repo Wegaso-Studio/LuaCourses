@@ -16,6 +16,7 @@ L’objectif est d’offrir un parcours clair, progressif et directement applica
 - [Conditions](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/conditions.md)
 - [Type de données avancé](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/advanced_datas.md)
 - [Conditions avancées](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/advanced_conditions.md)
+- [Conditions Exercices](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/conditions_exercises.md)
 
 # 📂 Structure du cours
 - **1. Bases du Lua**  
