@@ -53,3 +53,6 @@
         CreateData(country, state, postalCode)
     end
     ```
+
+    ## Retournons aux conditions
+    - [Cliquez ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/advanced_conditions.md) pour continuer les conditions

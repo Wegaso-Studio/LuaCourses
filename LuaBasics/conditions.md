@@ -98,5 +98,5 @@
     ```
 
 ## Avant de passer à la suite des conditions !
-- J'aimerais repasser sur `types de données` mais plus particulièrement sur les `boolean` et le `nil`
-- Cliquez ici pour la suite.
+- J'aimerais repasser sur les `types de données` mais plus particulièrement sur les `boolean` et le `nil`
+- [Cliquez ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/advanced_datas.md) pour la suite.

@@ -60,4 +60,4 @@
 
 
 ## Tu as terminé et tu veux passer à la suite ?
-- [Cliques ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/comparaisons.md) pour voir le cours sur les comparaisons
+- [Cliques ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/comparisons.md) pour voir le cours sur les comparaisons

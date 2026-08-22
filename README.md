@@ -12,8 +12,12 @@ L’objectif est d’offrir un parcours clair, progressif et directement applica
 - [Introduction](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/introduction.md)
 - [Initiation](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/initiation_lua.md)
 - [Initiation Exercices](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/initiation_exercises.md)
-# 📂 Structure du cours
+- [Comparaisons](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/comparisons.md)
+- [Conditions](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/conditions.md)
+- [Type de données avancé](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/advanced_datas.md)
+- [Conditions avancées](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/advanced_conditions.md)
 
+# 📂 Structure du cours
 - **1. Bases du Lua**  
   - Syntaxe fondamentale  
   - Variables, tables, fonctions  
