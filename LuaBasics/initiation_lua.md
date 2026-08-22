@@ -184,3 +184,6 @@
         multiplication = 36
         modulo = 1
         ```
+
+## Petit break sur la théorie..!
+- [Clique ici pour aller aux exercices](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/initiation_exercises.md)
