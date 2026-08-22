@@ -9,7 +9,7 @@ L’objectif est d’offrir un parcours clair, progressif et directement applica
  ![Wegaso Studio](https://img.shields.io/badge/Wegaso-Studio-8a2be2?style=flat&logoColor=white)
 
 # ❓ Sommaire
-- Introduction https://github.com/Wegaso-Studio/LuaCourses/LuaBasics/introduction.md
+- [Introduction](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/introduction.md)
 
 # 📂 Structure du cours
 
