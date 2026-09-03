@@ -119,4 +119,4 @@ Maintenant je vais vous expliquer les conditions un peu plus en détail en méla
 
 ## Passons aux exercices
 - Vous pouvez tester le code de la théorie dans **[tools-online](https://www.tools-online.app/)**
-- Cliquez ici pour passer à la pratique
+- [Cliquez ici](https://github.com/Wegaso-Studio/LuaCourses/blob/main/LuaBasics/conditions_exercises.md) pour passer à la pratique
